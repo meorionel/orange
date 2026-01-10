@@ -13,18 +13,18 @@
 						<button class="btn btn-sm btn-neutral mt-4">
 							<NuxtLink to="/docs" class="flex items-center"> 🍊 服务器指北<icon name="gravity-ui:caret-right" /> </NuxtLink>
 						</button>
-						<button class="btn btn-sm btn-neutral mt-4">
+						<!-- <button class="btn btn-sm btn-neutral mt-4">
 							<NuxtLink to="/litebans" class="flex items-center">小黑屋</NuxtLink>
 						</button>
 						<button class="btn btn-sm btn-neutral mt-4">
 							<NuxtLink to="/guild" class="flex items-center">公会</NuxtLink>
-						</button>
+						</button> -->
 						<button class="btn btn-sm btn-neutral mt-4">
 							<NuxtLink to="/blueMaps" class="flex items-center">蓝图</NuxtLink>
 						</button>
-						<button class="btn btn-sm btn-neutral mt-4">
+						<!-- <button class="btn btn-sm btn-neutral mt-4">
 							<NuxtLink to="/server" class="flex items-center">服务器状态</NuxtLink>
-						</button>
+						</button> -->
 						<!-- <button class="btn btn-sm btn-neutral mt-4">
 							<NuxtLink to="/logs" class="flex items-center">服务器日志</NuxtLink>
 						</button> -->
